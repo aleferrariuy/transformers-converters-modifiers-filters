@@ -1,1 +1,2 @@
-**/*.html
+*.html
+code/image-to-base64/*.html
